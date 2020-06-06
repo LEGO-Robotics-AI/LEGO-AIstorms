@@ -1,1 +1,10 @@
+# EV3Dev2
 Python-EV3Dev2 >= 2.1.0
+
+# Data Processing
+NumPy >= 1.18.4
+Pandas >= 1.0.4
+PyArrow >= 0.17.1
+
+# AI / ML
+SciKit-Learn >= 0.23.1
