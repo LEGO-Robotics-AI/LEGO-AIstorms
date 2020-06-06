@@ -1,0 +1,4 @@
+include requirements*.txt
+include ev3ai/metadata.json
+
+recursive-exclude *.pyc
