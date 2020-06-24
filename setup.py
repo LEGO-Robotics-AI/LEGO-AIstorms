@@ -3,7 +3,7 @@ import os
 from setuptools import find_packages, setup
 
 
-PACKAGE_NAMESPACE_NAME = 'ev3ai'
+PACKAGE_NAMESPACE_NAME = 'aistorms'
 
 METADATA_FILE_NAME = 'metadata.json'
 

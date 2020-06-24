@@ -1,8 +1,8 @@
 {
-  "PACKAGE": "LEGO-Mindstorms-AI",
+  "PACKAGE": "aistorms",
   "AUTHOR": "TheVinhLuong102",
   "AUTHOR_EMAIL": "TheVinhLuong@GMail.com",
   "DESCRIPTION": "Artificial Intelligence (AI) algorithms for the LEGO Mindstorms platform",
   "VERSION": "0.0.0.dev0",
-  "URL": "https://GitHub.com/TheVinhLuong102/LEGO-Mindstorms-AI"
+  "URL": "https://GitHub.com/TheVinhLuong102/aistorms"
 }
